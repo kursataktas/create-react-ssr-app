@@ -63,7 +63,7 @@ Follow our [Adding TypeScript](adding-typescript.md) documentation to create a T
 When you create a new app, the CLI will use [Yarn](https://yarnpkg.com/) to install dependencies (when available). If you have Yarn installed, but would prefer to use npm, you can append --use-npm to the creation command. For example:
 
 ```sh
-npx create-react-app my-app --use-npm
+npx create-react-ssr-app my-app --use-npm
 ```
 
 ## Output
